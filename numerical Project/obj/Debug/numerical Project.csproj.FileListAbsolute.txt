@@ -1,0 +1,20 @@
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\numerical Project.exe.config
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\numerical Project.exe
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\numerical Project.pdb
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical Project.csprojAssemblyReference.cache
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical_Project.Form1.resources
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical_Project.Properties.Resources.resources
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical Project.csproj.GenerateResource.cache
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical Project.exe
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical Project.pdb
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical_Project.Bisection.resources
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\obj\Debug\numerical Project.csproj.CopyComplete
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.Base.dll
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.Pdf.dll
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.WebBrowser.dll
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.WebEngine.dll
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.Base.xml
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.Pdf.xml
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.WebBrowser.xml
+C:\Users\M0hep\source\repos\numerical Project\numerical Project\bin\Debug\EO.WebEngine.xml
